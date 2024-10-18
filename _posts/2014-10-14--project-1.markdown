@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-10-14
+img: pc.png
+alt: image-alt
+project-date: 2023 - 2024
+client: 
+category: CSI Class
+description: The CSI classes I have taken at Allegheny college is 100 and 101. They are the two intro classes at Allegheny. Also I am in document engineering and software engineering currently.
+---

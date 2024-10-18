@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-10-09
+img: cake.png
+alt: image-alt
+project-date: 2023 - 2024
+client: Start Bootstrap
+category: business classes
+description: The business classes I have taken at Allegheny college are intro to micro and macro economics. I am also in intro to business managemant and microeconomic theory currently.
+---

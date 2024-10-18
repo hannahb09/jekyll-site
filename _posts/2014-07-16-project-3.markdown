@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: pc.png
+alt: image-alt
+project-date: 
+client: Start Bootstrap
+category: CSI experience
+description: I have been coding for two years constantly but I have coded a lot here and there throughout my life. I know the python language and I know how to work in a group like software engineering.
+---
